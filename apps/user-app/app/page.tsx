@@ -5,9 +5,7 @@ import { authOptions } from "./lib/auth";
 // test fir cicd
 // test fir cicd
 // test fir cicd
-// test fir cicd
-// test fir cicd
-// test fir cicd
+// what is this
 
 export default async function Page() {
   const session = await getServerSession(authOptions);
